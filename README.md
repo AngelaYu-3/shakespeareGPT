@@ -14,7 +14,7 @@ ___
 
 ## Included Dataset
 
-The included example **shakespeareData.txt** dataset has Shakespeare passages [dataset]([https://www.ssa.gov/](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)).
+The included example **shakespeareData.txt** dataset has Shakespeare passages [dataset](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt).
 
 ___
 
