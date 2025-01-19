@@ -32,7 +32,7 @@ ___
 - want attention score to be high between two words that are more relevant to each other
 <img src="other/attentionDiagram.png" alt="data1" width="400"/>
 
-- query, key, and value are vectors with an embedding dimension--if two words are more relevant to each other, thsoe vectors are more aligned
+- query, key, and value are vectors with an embedding dimension--if two words are more relevant to each other, those vectors are more aligned
 <img src="other/encoderDecoderMatrix.png" alt="data2" width="400"/>
 <img src="other/encoderDecoderMatrix.png" alt="data3" width="400"/>
 
