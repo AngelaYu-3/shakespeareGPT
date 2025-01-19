@@ -23,11 +23,20 @@ Transformers Explained Article Series that helped me better understand the inner
 ___
 
 ## Notes
+<img src="other/transformerOverview.png" alt="data5" width="500"/>
+
 - query: word for which we are calculating attention
 - key/value: word to which we are paying attention
 - want attention score to be high between two words that are more relevant to each other
+<img src="other/attentionDiagram.png" alt="data1" width="400"/>
+
 - query, key, and value are vectors with an embedding dimension--if two words are more relevant to each other, thsoe vectors are more aligned
+<img src="other/encoderDecoderMatrix.png" alt="data2" width="400"/>
+<img src="other/encoderDecoderMatrix.png" alt="data3" width="400"/>
+
 - word vectors are generated based on word embedding and weights of linear layers--what is learned by the transformer model
+<img src="other/embeddingAndLinear.png" alt="data4" width="400"/>
+
 - self-attention in encoder: source sequence pays attention to itself
 - self-attention in decoder: target sequence pays attention to itself
 - self-attention in encoder-decoder: target sequence pays attention to source sequences
