@@ -9,8 +9,15 @@ ___
 
 ## Key Papers That Current Implementation Follow
 - [Attention Is All You Need](https://github.com/AngelaYu-3/shakespeareGPT/blob/main/annotated_papers/attentionIsAllYouNeed.pdf)
-
 ___
+
+## Resources
+Transformers Explained Article Series that helped me better understand the inner-workings of transformers
+- [Overview of Functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+- [How It Works, Step-By-Step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
+- [Multi-Head Attention, Deep Dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+- [Not Just How, But Why They Work](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
+__
 
 ## Included Dataset
 
