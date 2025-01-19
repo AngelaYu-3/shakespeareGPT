@@ -8,12 +8,14 @@ This project is for educational purposes and follows the course [Neural Networks
 ___
 
 ## Key Papers That Current Implementation Follow
+
 *need to reread*
 - [Attention Is All You Need](https://github.com/AngelaYu-3/shakespeareGPT/blob/main/annotated_papers/attentionIsAllYouNeed.pdf)
 ___
 
 ## Resources
 Transformers Explained Article Series that helped me better understand the inner-workings of transformers
+
 *need to reread--especially gain familiarity with multi-head attention*
 - [Overview of Functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 - [How It Works, Step-By-Step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
