@@ -17,7 +17,8 @@ Transformers Explained Article Series that helped me better understand the inner
 - [How It Works, Step-By-Step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
 - [Multi-Head Attention, Deep Dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - [Not Just How, But Why They Work](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
-__
+
+___
 
 ## Included Dataset
 
