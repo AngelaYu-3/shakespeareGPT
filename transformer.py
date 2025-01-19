@@ -11,4 +11,6 @@ for b in range(8):
         xprev = x[b,:t+1]
         xbow[b,t] = torch.mean(xprev, 0)
 
+print('test')
+
 
