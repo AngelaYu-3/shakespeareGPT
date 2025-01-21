@@ -12,7 +12,7 @@ ___
 ___
 
 ## Resources
-Transformers Explained Article Series that helped me better understand the inner-workings of transformers
+Transformers Explained Article Series by Ketan Doshi that helped me better understand the inner-workings of transformers
 - [Overview of Functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 - [How It Works, Step-By-Step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
 - [Multi-Head Attention, Deep Dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
@@ -21,7 +21,22 @@ Transformers Explained Article Series that helped me better understand the inner
 ___
 
 ## Notes
+
+***all diagrams are from articles by Ketan Doshi which are linked above***
+
 <img src="other/transformerOverview.png" alt="data5" width="500"/>
+
+___
+**Training**
+
+<img src="other/training.png" alt="data8" width="500"/>
+
+<img src="other/teacherForcing.png" alt="data9" width="500"/>
+
+___
+**Inference**
+
+<img src="other/inference.png" alt="data10" width="500"/>
 
 ___
 
