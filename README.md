@@ -24,14 +24,14 @@ ___
 
 ***all diagrams are from articles by Ketan Doshi which are linked above***
 
-<img src="other/transformerOverview.png" alt="data5" width="500"/>
+<img src="other/transformerOverview.png" alt="data5" width="450"/>
 
 ___
 **Training**
 
 <img src="other/training.png" alt="data8" width="500"/>
 
-<img src="other/teacherForcing.png" alt="data9" width="500"/>
+<img src="other/teacherForcing.png" alt="data9" width="450"/>
 
 ___
 **Inference**
