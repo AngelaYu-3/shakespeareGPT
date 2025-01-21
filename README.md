@@ -43,6 +43,9 @@ ___
 - self-attention in decoder: target sequence pays attention to itself
 - self-attention in encoder-decoder: target sequence pays attention to source sequences
 - positional encoding & word encoding along with ability to process multiple words at once (not sequentially) makes transformers more efficient
+- masking in training: autoregressive training by not letting tokens "view ahead" and cheat the training process, tokens should only be able to train based on past tokens ("creating more datasets"--if there are 9 words in a sentence, there are essentially 8 datasets to train on)
+- masking in inference: keeps autoregressive network structure, prevents previous generated tokens from self-attentioning to future positions (future tokens not generated yet)
+- during inference attention needs to be recalculated because model needs to update its understanding of the entire context not just of one token, dynamic nature of attention (attention weights between 1 and 2 token might change based on the generation of 3 token, previous token weights can change based on generated token now that there's new context)
 
 ___
 ## Included Dataset
