@@ -31,7 +31,7 @@ ___
 - key: word to which we are paying attention, reference vector to which query will be compared, each key represents a specific "feature" of the token that might be relevant for attention
 - value: actual information that transformer uses to process the output, after attention scores are calculated by taking dot product of query & key values are weighted by those scores and aggregated to output the final attention score
 
-<img src="other/transformerOverview.png" alt="data5" width="500"/>
+<img src="other/attentionEq.png" alt="data6" width="400"/>
 
 - want attention score to be high between two words that are more relevant to each other
 <img src="other/attentionDiagram.png" alt="data1" width="400"/>
