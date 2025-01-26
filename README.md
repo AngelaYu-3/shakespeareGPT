@@ -4,7 +4,7 @@ shakespeareGPT is a transformer language model that generates more Shakespearian
 
 This project is for educational purposes and follows the course [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2). 
 
-Note that training and thus outputs are significantly hampered by no access to GPUs.
+Note that training and thus outputs are significantly hampered by GPU inaccessibility.
 
 ***Source code is commented to demonstrate independent understanding of core concepts as well as for ease of future read-throughs. Additional coding files used during independent learning process are also included. Annotated research papers that implemented models are based on are also included.***
 ___
