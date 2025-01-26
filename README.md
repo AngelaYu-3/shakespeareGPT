@@ -65,9 +65,9 @@ ___
 - want attention score to be high between two words that are more relevant to each other
 <img src="other/attentionDiagram.png" alt="data1" width="400"/>
 
-- self-attention in encoder: source sequence pays attention to itself
-- self-attention in decoder: target sequence pays attention to itself
-- self-attention in encoder-decoder: target sequence pays attention to source sequences
+- self-attention in encoder: source sequence pays attention to itself (self-attention)
+- self-attention in decoder: target sequence pays attention to itself (self-attention)
+- self-attention in encoder-decoder: target sequence pays attention to source sequences (cross-attention)
 
 ___
 
