@@ -1,7 +1,6 @@
 # shakespeareGPT
 
-shakespeareGPT is a transformer language model that generates more Shakespearian-like text. It is a decoder only transformer (just like chatGPT) with multi-head attention, feed forward layers, a softmax layer, a linear layer, layer normalization, and residual blocks
-. There is no encoder and cross-attention.
+shakespeareGPT is a transformer language model that generates more Shakespearian-like text. It is a decoder only transformer (just like chatGPT) with multi-head attention, feed forward layers, a softmax layer, a linear layer, layer normalization, and residual blocks. There is no encoder and cross-attention.
 
 This project is for educational purposes and follows the course [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2). 
 
