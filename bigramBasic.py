@@ -3,7 +3,7 @@ import train
 import torch.nn as nn
 from torch.nn import functional as F
 
-class BigramLanguageModel(nn.Module):
+class BigramBasicLanguageModel(nn.Module):
 
     def __init__(self, vocab_size):
         super().__init__()
@@ -41,7 +41,7 @@ class BigramLanguageModel(nn.Module):
         return idx
 
 
-m = BigramLanguageModel(train.vocab_size)  
+m = BigramBasicLanguageModel(train.vocab_size)  
 # PyTorch optimizer--more powerful gradient descent
 optimizer = torch.optim.AdamW(m.parameters(), lr=1e-3)
 batch_size = 32
